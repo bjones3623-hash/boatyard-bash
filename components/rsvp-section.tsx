@@ -1,8 +1,7 @@
 import { Mail } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-// TODO: add Brooke's email address here so the RSVP button opens a pre-addressed message.
-const BROOKE_EMAIL = ""
+const BROOKE_EMAIL = "brookersvp@gmail.com"
 
 const mailtoHref = `mailto:${BROOKE_EMAIL}?subject=${encodeURIComponent(
   "RSVP: Annapolis Boatyard Bash",
