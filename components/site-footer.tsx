@@ -9,7 +9,7 @@ export function SiteFooter() {
           Friday, October 23, 2026 · 6&ndash;9 PM · Annapolis Marina
         </p>
         <p className="text-sm text-slate-500">
-          Built with v0, run from my own terminal
+          Built with v0, run from my own terminal · October 2026
         </p>
       </div>
     </footer>
