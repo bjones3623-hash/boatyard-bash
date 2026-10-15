@@ -9,7 +9,7 @@ export function SiteFooter() {
           Friday, October 23, 2026 · 6&ndash;9 PM · Annapolis Marina
         </p>
         <p className="text-sm text-slate-500">
-          A community benefit for Annapolis schools.
+          Built with v0, run from my own terminal
         </p>
       </div>
     </footer>
